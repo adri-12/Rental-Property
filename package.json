@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "dotenv": "^16.4.5",
     "eslint-config-next": "^14.2.1",
     "mongodb": "^6.5.0",
     "mongoos": "^0.0.1-security",
